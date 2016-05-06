@@ -39,9 +39,9 @@ and open the template in the editor.
 
         <ul>
             <li><a class="active" href="#home">Home</a></li>
-            <li><a href="/Apresentacao/equipe.php">Apresentação</a></li>
-            <li><a href="/Contatos/Passo5.html">Contact</a></li>
-            <li><a href="#about">About</a></li>
+            <li><a href="/Apresentacao/equipe.html">Apresentação</a></li>
+            <li><a href="/Contatos/Passo5.html">Fale Conosco</a></li>
+            <li><a href="/produtos/Passo2.html">About</a></li>
         </ul>
 
     </body>
