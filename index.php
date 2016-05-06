@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
     <head>
         <meta charset="UTF-8">
@@ -34,6 +29,15 @@ and open the template in the editor.
                 background-color: #111;
             }
         </style>
+        <style>
+        table {
+            border-collapse: collapse;
+        }
+
+        table, td, th {
+            border: 1px solid black;
+        }
+        </style>
     </head>
     <body>
 
@@ -44,5 +48,21 @@ and open the template in the editor.
             <li><a href="/produtos/Passo2.html">About</a></li>
         </ul>
 
+        <h2>Kardashians</h2>
+
+        <table>
+          <tr>
+            <th>Bruno</th>
+            <th>Mattos</th>
+          </tr>
+          <tr>
+            <td>João Victor</td>
+            <td>Siqueira</td>
+          </tr>
+          <tr>
+            <td>Lubia</td>
+            <td>Barros</td>
+          </tr>
+        </table>
     </body>
 </html>
