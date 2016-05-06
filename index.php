@@ -1,17 +1,35 @@
 <!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title></title>
-    </head>
-    <body>
-        <?php
-        // put your code here
-        ?>
-    </body>
+<head>
+<style>
+table {
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+}
+</style>
+</head>
+<body>
+
+<h2>Kardashians</h2>
+
+<table>
+  <tr>
+    <th>Bruno</th>
+    <th>Mattos</th>
+  </tr>
+  <tr>
+    <td>João Victor</td>
+    <td>Siqueira</td>
+  </tr>
+  <tr>
+    <td>Lubia</td>
+    <td>Barros</td>
+  </tr>
+</table>
+
+
+</body>
 </html>
