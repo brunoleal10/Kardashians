@@ -37,6 +37,10 @@
         table, td, th {
             border: 1px solid black;
         }
+        
+         h1, p {
+            font-family: "Arial", sans-serif;
+        }
         </style>
     </head>
     <body>
@@ -49,7 +53,7 @@
             <li><a href="/Kardashians/Contatos/Passo5.html">Fale Conosco</a></li>
         </ul>     
     </body>
-    <h1>Kardashians</h1>
-    <img src="brasao.png" alt="Kardashians" title="Kardashians"/>
-    <p><br/><br/><br/><br/><br/><br/><p>Copyright &copy; 2016 - Kardashians</p>
+    <center><h1>Kardashians</h1></center>
+    <center><img src="brasao.png" alt="Kardashians" title="Kardashians"/></center>
+    <center><p><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><p>Copyright &copy; 2016 - Kardashians</p></center>
 </html>
