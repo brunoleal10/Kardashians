@@ -4,9 +4,11 @@ ___
 
 ##Equipe
 
-* João Victor
 * Bruno Mattos
 * Gleicekelly
+* João Victor
+* Lúbia Barros
+* Michael Soares
 * Natali
 
 ___
